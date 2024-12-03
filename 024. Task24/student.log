@@ -1,0 +1,8 @@
+INFO     2023-08-28 21:44:35,278 students.education 'Математика - 4, 34' - Ok
+INFO     2023-08-28 21:44:35,278 students.education 'None' - Ok
+INFO     2023-08-28 21:45:06,794 students.education 'Математика - 4, 34' - Ok
+ERROR    2023-08-28 21:45:07,680 students.education 'Ботаникаа - 4, 34' - Дисциплины "Ботаникаа" нет в файле discipline.csv!
+INFO     2023-08-28 21:45:07,695 students.education 'None' - Ok
+INFO     2023-08-28 21:45:50,879 students.education 'Математика - 4, 34' - Ok
+INFO     2023-08-28 21:45:51,758 students.education 'Химия - 5, 46' - Ok
+INFO     2023-08-28 21:45:51,773 students.education 'None' - Ok

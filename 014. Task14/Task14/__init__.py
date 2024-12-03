@@ -1,0 +1,1 @@
+__all__ = ['Task14_check_queen','Task14_gen_queen']
